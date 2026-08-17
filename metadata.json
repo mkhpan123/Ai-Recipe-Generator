@@ -1,0 +1,6 @@
+{
+  "name": "AI Recipe Generator",
+  "description": "Full-stack AI-powered recipe generator with pantry management, shopping list, saved recipes, and JWT authentication using Express, PostgreSQL, and Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
